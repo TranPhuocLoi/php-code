@@ -18,11 +18,11 @@ function custom_product_image_link(){
 	   <h3 style="text-align: center;"><span style="font-size: 130%;">DECLARATION</span></h3>
 	   <br> 
 	   <div class="wrap_option">
-	    <img heigt="35" width="35" src="https://skinwecare.vn/wp-content/uploads/2022/08/nurse.png">
+	    <img heigt="35" width="35" src="url">
 	    <a href="'.get_the_permalink().'" title="'.get_the_title().'">Tôi là chuyên gia</a>
 	   </div>
 	   <div class="wrap_option">
-	     <img heigt="35" width="35" src="https://skinwecare.vn/wp-content/uploads/2022/08/girl.png">
+	     <img heigt="35" width="35" src="url">
 	     <a href="/" title="Trang chủ">Tôi không phải là chuyên gia</a>
 	   </div>
 	   [/lightbox]' );
